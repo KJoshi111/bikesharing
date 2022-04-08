@@ -23,6 +23,6 @@ Images:
   It is clear that males uses the bikes significantly more and takes the subscription more. We can start a scheme to provide family passes with bundle discounts to attact more women and kids to use these bikes.
   Also we suggest to have different rates for Rush-hours and non Rush_hours as we can clearly see a hike in rush hour usage. 
   We created a story in Tableau to prepare our final presentation: here is the link and a screenshot:
-  Link: ![link to story](https://public.tableau.com/views/NYCCitiBIke/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+  Link: https://public.tableau.com/views/NYCCitiBIke/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
   
   
