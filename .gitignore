@@ -4,9 +4,9 @@ __pycache__/
 *$py.class
 
 # Unnecessary Files Added
-201908-citibike-tripdata
-201908-citibike-tripdata
-nyc_citibike_2
+201908-citibike-tripdata.csv
+201908-citibike-tripdata.csv
+nyc_citibike_2.csv
 
 # C extensions
 *.so
